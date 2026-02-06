@@ -79,16 +79,22 @@
 
 </div>
 
-<table align="center">
-<tr>
-<td>
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tine126&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=a855f7&title_color=8b5cf6"/>
-</td>
-<td>
-<img height="180" src="https://streak-stats.demolab.com/?user=tine126&theme=tokyonight&hide_border=true&background=1a1b27&ring=8b5cf6&fire=a855f7&currStreakLabel=a855f7"/>
-</td>
-</tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/tine126">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=tine126&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=a855f7&title_color=8b5cf6&rank_icon=github"/>
+</a>
+<a href="https://github.com/tine126">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tine126&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tine126&theme=tokyonight"/>
+
+</div>
 
 <br/>
 
