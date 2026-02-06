@@ -58,7 +58,8 @@
 
 ## 🏆 ACHIEVEMENTS
 
-<img src="https://github-profile-trophy.vercel.app/?username=tine126&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tine126&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tine126&theme=tokyonight&utcOffset=8"/>
 
 <br/>
 
