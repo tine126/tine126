@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="./assets/black-signal-banner.png" width="100%" alt="TINE126 — Identity unavailable, signal active" />
+<img src="./assets/anonymous-transmission-banner.png" width="100%" alt="TINE126 — We are all anonymous" />
 
-<img src="./assets/signal-strip.svg" width="100%" alt="Black Signal intercepted status" />
-
-<sub>ANONYMOUS BY DESIGN // INDEPENDENT BY NATURE</sub>
+<sub>INDEPENDENT MIND &nbsp;·&nbsp; OPEN NETWORK &nbsp;·&nbsp; UNBROKEN SIGNAL</sub>
 
 </div>
 
@@ -12,7 +10,7 @@
 
 <div align="center">
 
-<img src="./assets/identity-file.svg" width="100%" alt="Intercepted identity file T126" />
+<img src="./assets/identity-grid.svg" width="100%" alt="TINE126 anonymous identity status" />
 
 </div>
 
@@ -20,7 +18,7 @@
 
 <div align="center">
 
-<img src="./assets/intercepted-terminal.svg" width="100%" alt="Terminal tracing tine126: identity unresolved, signal active" />
+<img src="./assets/trace-terminal.svg" width="100%" alt="Terminal identity trace for tine126" />
 
 </div>
 
@@ -28,7 +26,7 @@
 
 <div align="center">
 
-<img src="./assets/anonymous-principles.svg" width="100%" alt="Five anonymous principles" />
+<img src="./assets/manifesto.svg" width="100%" alt="TINE126 anonymous manifesto" />
 
 </div>
 
@@ -38,7 +36,7 @@
 
 <h3>SECURE CHANNELS</h3>
 
-<sub>SELECT AN OPEN FREQUENCY</sub>
+<sub>SELECT AN OPEN FREQUENCY // ENCRYPTION OPTIONAL</sub>
 
 <br/><br/>
 
