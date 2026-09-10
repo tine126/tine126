@@ -37,6 +37,34 @@ jobs:
               --color-calendar-graph-day-L4-bg: #e8e2d6;
             }
             svg { background: #08090c !important; }
+            .items-wrapper { position: relative; min-height: 360px; }
+            .items-wrapper::before {
+              content: "◇";
+              position: absolute;
+              right: 158px;
+              top: 82px;
+              width: 118px;
+              height: 118px;
+              border: 1px solid #c6a15b;
+              border-radius: 50%;
+              color: #e8e2d6;
+              font-family: Georgia, serif;
+              font-size: 34px;
+              line-height: 118px;
+              text-align: center;
+              box-shadow: 0 0 36px rgba(198, 161, 91, .14), inset 0 0 24px rgba(198, 161, 91, .08);
+            }
+            .items-wrapper::after {
+              content: "THE CHRONICLE REMEMBERS";
+              position: absolute;
+              right: 73px;
+              top: 232px;
+              width: 290px;
+              color: #c6a15b;
+              font-size: 11px;
+              letter-spacing: 4px;
+              text-align: center;
+            }
             h2, h3, .field { color: #e8e2d6 !important; }
             h2 { display: none !important; }
             .field svg { fill: #c6a15b !important; }
