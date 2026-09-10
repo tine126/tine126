@@ -4,50 +4,50 @@
     </defs>
     <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.center{justify-content:center}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.calendar{margin-left:13px;margin-top:4px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
     <style>:root {
- --color-calendar-graph-day-bg: #151722;
- --color-calendar-graph-day-border: #24212a;
- --color-calendar-graph-day-L1-bg: #453b2c;
- --color-calendar-graph-day-L2-bg: #846a3d;
- --color-calendar-graph-day-L3-bg: #c6a15b;
- --color-calendar-graph-day-L4-bg: #e8e2d6;
+ --color-calendar-graph-day-bg: #111111;
+ --color-calendar-graph-day-border: #242424;
+ --color-calendar-graph-day-L1-bg: #343434;
+ --color-calendar-graph-day-L2-bg: #6f6f6f;
+ --color-calendar-graph-day-L3-bg: #d00000;
+ --color-calendar-graph-day-L4-bg: #e8e8e8;
 }
-svg { background: #08090c !important; }
+svg { background: #050505 !important; }
 .items-wrapper { position: relative; min-height: 360px; }
 .items-wrapper::before {
- content: "◇";
+ content: "?";
  position: absolute;
  right: 158px;
  top: 82px;
  width: 118px;
  height: 118px;
- border: 1px solid #c6a15b;
+ border: 1px solid #d00000;
  border-radius: 50%;
- color: #e8e2d6;
- font-family: Georgia, serif;
+ color: #e8e8e8;
+ font-family: Consolas, monospace;
  font-size: 34px;
  line-height: 118px;
  text-align: center;
- box-shadow: 0 0 36px rgba(198, 161, 91, .14), inset 0 0 24px rgba(198, 161, 91, .08);
+ box-shadow: 0 0 36px rgba(208, 0, 0, .12), inset 0 0 24px rgba(208, 0, 0, .07);
 }
 .items-wrapper::after {
- content: "THE CHRONICLE REMEMBERS";
+ content: "TRACE DETECTED // SIGNAL ACTIVE";
  position: absolute;
  right: 73px;
  top: 232px;
  width: 290px;
- color: #c6a15b;
+ color: #d00000;
  font-size: 11px;
  letter-spacing: 4px;
  text-align: center;
 }
-h2, h3, .field { color: #e8e2d6 !important; }
+h2, h3, .field { color: #e8e8e8 !important; }
 h2 { display: none !important; }
-.field svg { fill: #c6a15b !important; }
-path[fill="#ebedf0"] { fill: #151722 !important; }
-path[fill="#9be9a8"] { fill: #453b2c !important; }
-path[fill="#40c463"] { fill: #846a3d !important; }
-path[fill="#30a14e"] { fill: #c6a15b !important; }
-path[fill="#216e39"] { fill: #e8e2d6 !important; }</style>
+.field svg { fill: #d00000 !important; }
+path[fill="#ebedf0"] { fill: #111111 !important; }
+path[fill="#9be9a8"] { fill: #343434 !important; }
+path[fill="#40c463"] { fill: #6f6f6f !important; }
+path[fill="#30a14e"] { fill: #d00000 !important; }
+path[fill="#216e39"] { fill: #e8e8e8 !important; }</style>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
