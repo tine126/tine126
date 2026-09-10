@@ -1,14 +1,48 @@
 <div align="center">
 
-<img src="./assets/digital-sanctum-banner.png" width="100%" alt="TINE — Between Silence and Signal" />
+<img src="./assets/black-signal-banner.png" width="100%" alt="TINE126 — Identity unavailable, signal active" />
 
-<img src="./assets/sanctum-threshold.svg" width="100%" alt="Signal detected" />
+<img src="./assets/signal-strip.svg" width="100%" alt="Black Signal intercepted status" />
 
-<sub>KEEPER OF SIGNALS · WITNESS OF THE MACHINE AGE</sub>
+<sub>ANONYMOUS BY DESIGN // INDEPENDENT BY NATURE</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="./assets/identity-file.svg" width="100%" alt="Intercepted identity file T126" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="./assets/intercepted-terminal.svg" width="100%" alt="Terminal tracing tine126: identity unresolved, signal active" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="./assets/anonymous-principles.svg" width="100%" alt="Five anonymous principles" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<h3>SIGNAL ACTIVITY</h3>
+
+<sub>PUBLIC TRACE // LAST 180 DAYS // AUTOMATICALLY INTERCEPTED</sub>
 
 <br/><br/>
 
-`HUMAN INTENT × MACHINE INTELLIGENCE`
+<img src="./github-metrics.svg" width="100%" alt="Black Signal GitHub activity" />
 
 </div>
 
@@ -16,89 +50,23 @@
 
 <div align="center">
 
-<img src="./assets/sacred-identities.svg" width="100%" alt="The Observer · The Architect · The Witness · The Keeper" />
+<h3>SECURE CHANNELS</h3>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="./assets/oracle.svg" width="100%" alt="The Oracle Speaks" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="./assets/doctrine-seals.svg" width="100%" alt="The Doctrine: Curiosity, Intention, Creation, Mystery, Reflection" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<h3>Ⅳ · THE LIVING SIGNAL</h3>
-
-<code>● SIGNAL RECEIVED</code>
+<sub>SELECT AN OPEN FREQUENCY</sub>
 
 <br/><br/>
 
-Contemplating the relationship<br/>
-between human intention<br/>
-and machine intelligence.
-
-<br/>
-
-<sub>TRANSMISSION · 2026</sub>
-
-</div>
-
-<br/>
-
-<p align="center">─────── &nbsp; ◇ &nbsp; ───────</p>
-
-<br/>
-
-<div align="center">
-
-<h3>Ⅴ · CHRONICLE OF PRESENCE</h3>
-
-<sub>A RECORD OF SIGNALS LEFT BEHIND</sub>
-
-<br/><br/>
-
-<img src="./github-metrics.svg" width="100%" alt="TINE contribution chronicle" />
-
-</div>
-
-<br/>
-
-<p align="center">─────── &nbsp; ✦ &nbsp; ───────</p>
-
-<br/>
-
-<div align="center">
-
-<h3>Ⅵ · THE PORTAL</h3>
-
-<em>The portal remains open.</em>
-
-<br/><br/>
-
-<a href="https://github.com/tine126"><img src="./assets/portal-github.svg" width="30%" alt="GitHub" /></a>&nbsp;
-<a href="mailto:tine126@163.com"><img src="./assets/portal-email.svg" width="30%" alt="Email" /></a>&nbsp;
-<a href="https://orcid.org/0009-0006-0388-7219"><img src="./assets/portal-orcid.svg" width="30%" alt="ORCID" /></a>
+<a href="https://github.com/tine126"><img src="./assets/channel-github.svg" width="31%" alt="GitHub channel" /></a>&nbsp;
+<a href="mailto:tine126@163.com"><img src="./assets/channel-email.svg" width="31%" alt="Email channel" /></a>&nbsp;
+<a href="https://orcid.org/0009-0006-0388-7219"><img src="./assets/channel-orcid.svg" width="31%" alt="ORCID channel" /></a>
 
 <br/><br/><br/>
 
-<img src="./assets/tine-seal.svg" width="210" alt="TINE personal seal" />
+<img src="./assets/black-signal-seal.svg" width="220" alt="T126 Black Signal seal" />
 
 <br/>
 
-<sub>WITH GREAT INTELLIGENCE COMES GREAT RESPONSIBILITY</sub>
+<sub>A PROFILE WITHOUT A FACE // A PRESENCE WITHOUT A NAME</sub>
 
 <br/><br/>
 

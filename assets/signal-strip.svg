@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="94" viewBox="0 0 1200 94" role="img" aria-labelledby="title desc">
+  <title id="title">Black Signal status</title><desc id="desc">An animated monochrome intercepted-signal status strip.</desc>
+  <defs><linearGradient id="fade"><stop stop-color="#d00000" stop-opacity="0"/><stop offset=".5" stop-color="#d00000"/><stop offset="1" stop-color="#d00000" stop-opacity="0"/></linearGradient><filter id="blur"><feGaussianBlur stdDeviation="5"/></filter></defs>
+  <rect width="1200" height="94" fill="#050505"/>
+  <path d="M24 13h42M24 13v22M1176 13h-42M1176 13v22M24 81h42M24 81V59M1176 81h-42M1176 81V59" fill="none" stroke="#303030"/>
+  <path d="M90 46h1020" stroke="url(#fade)" stroke-opacity=".55"/>
+  <circle cx="600" cy="46" r="19" fill="#d00000" opacity=".1" filter="url(#blur)"><animate attributeName="r" values="12;27;12" dur="3.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".08;.32;.08" dur="3.8s" repeatCount="indefinite"/></circle>
+  <circle cx="600" cy="46" r="4" fill="#00c853"><animate attributeName="opacity" values=".35;1;.35" dur="1.9s" repeatCount="indefinite"/></circle>
+  <g fill="#a7a7a7" font-family="Consolas,monospace" font-size="10" letter-spacing="3">
+    <text x="112" y="39">CHANNEL 0126</text><text x="112" y="58" fill="#e8e8e8">INTERCEPTED</text>
+    <text x="1088" y="39" text-anchor="end">TRACE STATUS</text><text x="1088" y="58" text-anchor="end" fill="#d00000">REJECTED</text>
+  </g>
+</svg>
