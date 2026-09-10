@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">T126 Anonymous Identity Deck</title>
+  <desc id="desc">A unified intelligence console containing identity, signal analysis, terminal trace, and manifesto.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#151515"/></pattern>
+    <linearGradient id="redline"><stop stop-color="#d00000"/><stop offset="1" stop-color="#d00000" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1200" height="700" rx="16" fill="#050505"/>
+  <rect x="1" y="1" width="1198" height="698" rx="15" fill="none" stroke="#343434"/>
+  <rect width="1200" height="700" rx="16" fill="url(#grid)" opacity=".36"/>
+
+  <g font-family="Consolas,monospace">
+    <path d="M0 82h1200M82 0v82" stroke="#303030"/>
+    <rect x="0" y="0" width="8" height="82" rx="4" fill="#d00000"/>
+    <text x="34" y="31" fill="#d00000" font-size="9" letter-spacing="5">BLACKSITE NODE // 0126</text>
+    <text x="34" y="59" fill="#eeeeee" font-size="19" letter-spacing="7">IDENTITY DECK</text>
+    <text x="598" y="36" fill="#555" font-size="9" letter-spacing="4" text-anchor="middle">INDEPENDENT MIND · OPEN NETWORK · UNBROKEN SIGNAL</text>
+    <circle cx="1033" cy="35" r="5" fill="#d00000"/><circle cx="1033" cy="35" r="12" fill="none" stroke="#d00000" opacity=".25"/>
+    <text x="1165" y="39" fill="#eeeeee" font-size="10" letter-spacing="3" text-anchor="end">SIGNAL ONLINE</text>
+    <text x="1165" y="62" fill="#555" font-size="8" letter-spacing="3" text-anchor="end">ACCESS LEVEL // NULL</text>
+
+    <!-- Abstract identity seal -->
+    <path d="M35 112h286l20 20v206l-20 20H35z" fill="#070707" stroke="#303030"/>
+    <text x="57" y="140" fill="#555" font-size="8" letter-spacing="4">SUBJECT MARK // NON-HUMAN</text>
+    <g transform="translate(188 237)" fill="none">
+      <circle r="78" stroke="#282828"/><circle r="60" stroke="#484848" stroke-dasharray="2 8"/><circle r="39" stroke="#282828"/>
+      <path d="M-92 0h26M66 0h26M0-92v26M0 66v26" stroke="#d00000"/>
+      <path d="M-38-24h76M0-24v68M-26 44 0 7l26 37" stroke="#eeeeee" stroke-width="3"/>
+      <path d="M-14-24h28L0-3z" fill="#d00000" stroke="none"/>
+      <rect x="-43" y="-37" width="86" height="12" fill="#070707" stroke="none"/>
+    </g>
+    <text x="188" y="338" fill="#777" font-size="9" letter-spacing="5" text-anchor="middle">T126 // UNASSIGNED</text>
+
+    <!-- Identity record -->
+    <path d="M363 112h802v246H363z" fill="#070707" stroke="#303030"/>
+    <rect x="363" y="112" width="5" height="74" fill="#d00000"/>
+    <text x="390" y="142" fill="#d00000" font-size="9" letter-spacing="5">01 // IDENTITY RECORD</text>
+    <text x="390" y="182" fill="#eeeeee" font-size="27" letter-spacing="9">REDACTED</text>
+    <g fill="#242424"><rect x="596" y="158" width="44" height="22"/><rect x="646" y="158" width="72" height="22"/><rect x="724" y="158" width="31" height="22"/><rect x="761" y="158" width="94" height="22"/></g>
+    <path d="M390 205h740" stroke="#282828"/>
+    <g fill="#5d5d5d" font-size="9" letter-spacing="3"><text x="390" y="240">ALIAS</text><text x="390" y="278">ORIGIN</text><text x="760" y="240">STATUS</text><text x="760" y="278">TRACE</text><text x="390" y="316">IDENTITY</text><text x="760" y="316">NETWORK</text></g>
+    <g fill="#eeeeee" font-size="12" letter-spacing="4"><text x="525" y="240">TINE126</text><text x="525" y="278">CN / UTC+08</text><text x="895" y="240">OBSERVING</text><text x="895" y="278">UNRESOLVED</text><text x="525" y="316">UNCONFIRMED</text><text x="895" y="316">OPEN</text></g>
+    <circle cx="1115" cy="235" r="4" fill="#d00000"/><circle cx="1115" cy="235" r="11" fill="none" stroke="#d00000" opacity=".25"/>
+
+    <!-- Signal map -->
+    <path d="M35 382h475v150H35z" fill="#070707" stroke="#303030"/>
+    <text x="57" y="411" fill="#d00000" font-size="9" letter-spacing="5">02 // SIGNAL FIELD</text>
+    <g transform="translate(58 435)" fill="none" stroke="#363636"><circle cx="25" cy="34" r="5" fill="#d00000" stroke="none"/><circle cx="139" cy="14" r="4"/><circle cx="215" cy="65" r="4"/><circle cx="307" cy="27" r="4"/><path d="M30 34 135 14m8 3 68 45m8 1 84-34m8 0 92 32"/><path d="M0 84h410" stroke="#202020" stroke-dasharray="3 7"/></g>
+    <path d="M58 493h38l13-31 17 54 20-40 18 17h38l12-23 16 36 18-27 15 14h40l11-19 14 31 18-12h55" fill="none" stroke="#d00000" stroke-width="2"/>
+    <text x="486" y="514" fill="#555" font-size="8" letter-spacing="3" text-anchor="end">FREQUENCY // 126.08</text>
+
+    <!-- Terminal -->
+    <path d="M532 382h633v150H532z" fill="#030303" stroke="#303030"/>
+    <path d="M532 417h633" stroke="#282828"/><circle cx="553" cy="400" r="4" fill="#d00000"/><circle cx="568" cy="400" r="4" fill="#3d3d3d"/><circle cx="583" cy="400" r="4" fill="#3d3d3d"/>
+    <text x="849" y="404" fill="#555" font-size="8" letter-spacing="4" text-anchor="middle">03 // SYSTEM LOG</text>
+    <text x="557" y="449" fill="#666" font-size="11">unknown@blacksite:~$ <tspan fill="#eeeeee">identify tine126</tspan></text>
+    <text x="557" y="480" fill="#666" font-size="11">&gt; identity: <tspan fill="#d00000" letter-spacing="3">REDACTED</tspan></text>
+    <text x="557" y="509" fill="#666" font-size="11">&gt; trace: <tspan fill="#eeeeee" letter-spacing="3">FAILED</tspan><tspan fill="#d00000"> █</tspan></text>
+    <text x="1139" y="509" fill="#444" font-size="8" letter-spacing="3" text-anchor="end">00:00:00</text>
+
+    <!-- Manifesto -->
+    <path d="M35 556h1130v109H35z" fill="#070707" stroke="#303030"/>
+    <rect x="35" y="556" width="6" height="109" fill="#d00000"/>
+    <text x="62" y="584" fill="#d00000" font-size="8" letter-spacing="5">04 // MANIFESTO</text>
+    <text x="62" y="621" fill="#eeeeee" font-size="20" letter-spacing="4">NO FACE. NO AUTHORITY. NO IMPOSED IDENTITY.</text>
+    <text x="1138" y="622" fill="#777" font-size="12" letter-spacing="4" text-anchor="end">ONLY THE SIGNAL REMAINS.</text>
+    <path d="M62 643h1076" stroke="url(#redline)"/>
+    <text x="1138" y="654" fill="#444" font-size="7" letter-spacing="3" text-anchor="end">PRIVACY IS NOT INVISIBILITY // ORIGINALITY REQUIRES DISTANCE</text>
+  </g>
+</svg>

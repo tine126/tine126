@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="84" viewBox="0 0 1200 84" role="img" aria-labelledby="title desc">
+  <title id="title">Identity deck checksum</title><desc id="desc">End of transmission checksum for T126.</desc>
+  <path d="M1 1h1198v62l-20 20H21L1 63z" fill="#050505" stroke="#343434"/>
+  <g font-family="Consolas,monospace"><text x="27" y="32" fill="#d00000" font-size="8" letter-spacing="4">CHECKSUM // 0126-A7F9-UNKNOWN</text><text x="27" y="57" fill="#555" font-size="8" letter-spacing="3">01010100 00110001 00110010 00110110</text><text x="600" y="47" fill="#777" font-size="9" letter-spacing="5" text-anchor="middle">A PRESENCE WITHOUT A NAME</text><text x="1171" y="32" fill="#eeeeee" font-size="9" letter-spacing="4" text-anchor="end">PACKET COMPLETE</text><text x="1171" y="57" fill="#d00000" font-size="8" letter-spacing="4" text-anchor="end">END OF TRANSMISSION // 0126</text></g>
+  <circle cx="1012" cy="29" r="4" fill="#d00000"/><path d="M1024 29h44" stroke="#343434" stroke-dasharray="3 6"/>
+</svg>

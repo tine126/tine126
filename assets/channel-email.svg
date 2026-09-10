@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="380" height="142" viewBox="0 0 380 142" role="img" aria-label="Email direct channel">
-  <defs><pattern id="g" width="18" height="18" patternUnits="userSpaceOnUse"><path d="M18 0H0V18" fill="none" stroke="#141414"/></pattern></defs>
-  <rect x="1" y="1" width="378" height="140" rx="9" fill="#050505" stroke="#343434"/><rect x="1" y="1" width="378" height="140" rx="9" fill="url(#g)" opacity=".7"/><rect x="1" y="1" width="5" height="140" rx="2" fill="#d00000"/>
-  <g transform="translate(27 31)" fill="none" stroke="#d8d8d8" stroke-width="2"><rect x="1" y="1" width="46" height="34" rx="3"/><path d="m3 4 21 17L45 4M3 33l14-13m28 13L31 20"/><path d="M8 47h32M13 54h22" stroke="#555"/></g>
-  <g font-family="Consolas,monospace"><text x="92" y="31" fill="#666" font-size="9" letter-spacing="3">ROUTE 02 // DIRECT</text><text x="92" y="67" fill="#eee" font-size="20" letter-spacing="6">EMAIL</text><text x="92" y="91" fill="#777" font-size="10" letter-spacing="1">tine126@163.com</text><text x="27" y="122" fill="#555" font-size="8" letter-spacing="2">PRIVATE FREQUENCY</text><text x="352" y="122" fill="#d00000" font-size="8" letter-spacing="2" text-anchor="end">TRANSMIT ↗</text></g>
-  <circle cx="350" cy="27" r="4" fill="#d00000"/><circle cx="350" cy="27" r="10" fill="none" stroke="#d00000" opacity=".25"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="164" viewBox="0 0 380 164" role="img" aria-label="Email access key">
+  <defs><pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#151515"/></pattern></defs>
+  <path d="M1 1h354l24 24v138H25L1 139z" fill="#050505" stroke="#343434"/><path d="M1 1h354l24 24v138H25L1 139z" fill="url(#grid)" opacity=".5"/><path d="M1 1h112" stroke="#d00000" stroke-width="3"/>
+  <g font-family="Consolas,monospace"><text x="24" y="27" fill="#d00000" font-size="8" letter-spacing="4">ACCESS KEY // 02</text><text x="24" y="74" fill="#eeeeee" font-size="21" letter-spacing="6">EMAIL</text><text x="24" y="99" fill="#777" font-size="9" letter-spacing="1">tine126@163.com</text><text x="24" y="139" fill="#555" font-size="8" letter-spacing="3">DIRECT FREQUENCY</text><text x="350" y="139" fill="#d00000" font-size="8" letter-spacing="3" text-anchor="end">TRANSMIT ↗</text></g>
+  <g transform="translate(294 58)" fill="none" stroke="#a8a8a8" stroke-width="2"><rect width="58" height="42" rx="3"/><path d="m3 4 26 21L55 4M3 39l18-17m34 17L37 22"/></g><circle cx="354" cy="25" r="4" fill="#d00000"/>
 </svg>
