@@ -36,20 +36,6 @@
 
 <div align="center">
 
-<h3>SIGNAL ACTIVITY</h3>
-
-<sub>PUBLIC TRACE // LAST 180 DAYS // AUTOMATICALLY INTERCEPTED</sub>
-
-<br/><br/>
-
-<img src="./github-metrics.svg" width="100%" alt="Black Signal GitHub activity" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <h3>SECURE CHANNELS</h3>
 
 <sub>SELECT AN OPEN FREQUENCY</sub>
