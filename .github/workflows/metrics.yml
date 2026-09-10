@@ -39,3 +39,8 @@ jobs:
             h2, h3, .field { color: #e8e2d6 !important; }
             h2 { display: none !important; }
             .field svg { fill: #c6a15b !important; }
+            path[fill="#ebedf0"] { fill: #151722 !important; }
+            path[fill="#9be9a8"] { fill: #453b2c !important; }
+            path[fill="#40c463"] { fill: #846a3d !important; }
+            path[fill="#30a14e"] { fill: #c6a15b !important; }
+            path[fill="#216e39"] { fill: #e8e2d6 !important; }
