@@ -1,0 +1,41 @@
+name: Chronicle of Presence
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  chronicle:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Render the contribution chronicle
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: tine126
+          filename: github-metrics.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          config_timezone: Asia/Shanghai
+          config_animations: yes
+          extras_css: |
+            :root {
+              --color-calendar-graph-day-bg: #151722;
+              --color-calendar-graph-day-border: #24212a;
+              --color-calendar-graph-day-L1-bg: #453b2c;
+              --color-calendar-graph-day-L2-bg: #846a3d;
+              --color-calendar-graph-day-L3-bg: #c6a15b;
+              --color-calendar-graph-day-L4-bg: #e8e2d6;
+            }
+            svg { background: #08090c !important; }
+            h2, h3, .field { color: #e8e2d6 !important; }
+            h2 { display: none !important; }
+            .field svg { fill: #c6a15b !important; }

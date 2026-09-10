@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">Sacred identities</title>
+  <desc id="desc">Four black and gold identity cards: Observer, Architect, Witness, and Keeper.</desc>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#C6A15B" stop-opacity=".75"/><stop offset=".5" stop-color="#756B8E" stop-opacity=".22"/><stop offset="1" stop-color="#C6A15B" stop-opacity=".45"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#C6A15B" stop-opacity=".15"/><stop offset="1" stop-color="#08090C" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="310" rx="22" fill="#08090C"/>
+  <text x="600" y="30" fill="#756B8E" font-family="Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="7" text-anchor="middle">SACRED IDENTITIES</text>
+  <g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <g transform="translate(18 46)">
+      <rect width="278" height="238" rx="14" fill="#0D0F15" stroke="url(#edge)"/>
+      <circle cx="139" cy="78" r="62" fill="url(#halo)"/>
+      <path d="M82 78c30-37 84-37 114 0-30 37-84 37-114 0z" fill="none" stroke="#C6A15B"/><circle cx="139" cy="78" r="17" fill="none" stroke="#E8E2D6"/><circle cx="139" cy="78" r="4" fill="#C6A15B"/>
+      <text x="139" y="147" fill="#E8E2D6" font-family="Georgia,serif" font-size="18" letter-spacing="4">THE OBSERVER</text>
+      <path d="M86 165H192" stroke="#C6A15B" stroke-opacity=".38"/>
+      <text x="139" y="193" fill="#8F899C" font-size="12">Finds meaning</text><text x="139" y="211" fill="#8F899C" font-size="12">within noise</text>
+    </g>
+    <g transform="translate(313 46)">
+      <rect width="278" height="238" rx="14" fill="#0D0F15" stroke="url(#edge)"/>
+      <circle cx="139" cy="78" r="62" fill="url(#halo)"/>
+      <path d="M139 35l43 74H96zM139 52v41M118 92h42" fill="none" stroke="#C6A15B"/><circle cx="139" cy="78" r="5" fill="#E8E2D6"/>
+      <text x="139" y="147" fill="#E8E2D6" font-family="Georgia,serif" font-size="18" letter-spacing="3">THE ARCHITECT</text>
+      <path d="M86 165H192" stroke="#C6A15B" stroke-opacity=".38"/>
+      <text x="139" y="193" fill="#8F899C" font-size="12">Gives structure</text><text x="139" y="211" fill="#8F899C" font-size="12">to uncertainty</text>
+    </g>
+    <g transform="translate(608 46)">
+      <rect width="278" height="238" rx="14" fill="#0D0F15" stroke="url(#edge)"/>
+      <circle cx="139" cy="78" r="62" fill="url(#halo)"/>
+      <ellipse cx="139" cy="78" rx="49" ry="20" fill="none" stroke="#C6A15B" transform="rotate(-18 139 78)"/><ellipse cx="139" cy="78" rx="49" ry="20" fill="none" stroke="#756B8E" transform="rotate(42 139 78)"/><circle cx="139" cy="78" r="8" fill="#E8E2D6"/><circle cx="184" cy="63" r="4" fill="#C6A15B"/>
+      <text x="139" y="147" fill="#E8E2D6" font-family="Georgia,serif" font-size="18" letter-spacing="4">THE WITNESS</text>
+      <path d="M86 165H192" stroke="#C6A15B" stroke-opacity=".38"/>
+      <text x="139" y="193" fill="#8F899C" font-size="12">Studies intelligence</text><text x="139" y="211" fill="#8F899C" font-size="12">as it emerges</text>
+    </g>
+    <g transform="translate(903 46)">
+      <rect width="278" height="238" rx="14" fill="#0D0F15" stroke="url(#edge)"/>
+      <circle cx="139" cy="78" r="62" fill="url(#halo)"/>
+      <path d="M139 31l45 47-45 47-45-47zM139 49l28 29-28 29-28-29z" fill="none" stroke="#C6A15B"/><circle cx="139" cy="78" r="5" fill="#E8E2D6"/>
+      <text x="139" y="147" fill="#E8E2D6" font-family="Georgia,serif" font-size="18" letter-spacing="4">THE KEEPER</text>
+      <path d="M86 165H192" stroke="#C6A15B" stroke-opacity=".38"/>
+      <text x="139" y="193" fill="#8F899C" font-size="12">Preserves signals</text><text x="139" y="211" fill="#8F899C" font-size="12">worth remembering</text>
+    </g>
+  </g>
+</svg>

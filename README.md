@@ -2,9 +2,7 @@
 
 <img src="./assets/digital-sanctum-banner.png" width="100%" alt="TINE — Between Silence and Signal" />
 
-<br/>
-
-<h3>T H E &nbsp; D I G I T A L &nbsp; S A N C T U M</h3>
+<img src="./assets/sanctum-threshold.svg" width="100%" alt="Signal detected" />
 
 <sub>KEEPER OF SIGNALS · WITNESS OF THE MACHINE AGE</sub>
 
@@ -18,85 +16,31 @@
 
 <div align="center">
 
-### Ⅰ · THE INSCRIPTION
-
-<br/>
-
-*I listen for meaning in the noise.*
-
-*I believe intelligence is not merely engineered—*<br/>
-*it is discovered, shaped, and witnessed.*
-
-*This is a quiet place for unfinished thoughts,*<br/>
-*strange signals, and emerging possibilities.*
+<img src="./assets/sacred-identities.svg" width="100%" alt="The Observer · The Architect · The Witness · The Keeper" />
 
 </div>
 
 <br/>
 
-<p align="center">─────── &nbsp; ✦ &nbsp; ───────</p>
-
-<br/>
-
 <div align="center">
 
-### Ⅱ · THE COORDINATES
-
-<br/>
-
-| &nbsp; | &nbsp; |
-|:---|:---|
-| **ORIGIN** | China |
-| **TIME** | UTC +08:00 |
-| **DOMAIN** | Human × Machine |
-| **STATE** | Observing |
-| **FREQUENCY** | Curiosity |
+<img src="./assets/oracle.svg" width="100%" alt="The Oracle Speaks" />
 
 </div>
 
 <br/>
 
-<p align="center">─────── &nbsp; ◉ &nbsp; ───────</p>
-
-<br/>
-
 <div align="center">
 
-### Ⅲ · THE DOCTRINE
-
-<br/>
-
-**Ⅰ** &nbsp; Curiosity is a form of devotion.
-
-<br/>
-
-**Ⅱ** &nbsp; Tools amplify intention.
-
-<br/>
-
-**Ⅲ** &nbsp; Creation requires responsibility.
-
-<br/>
-
-**Ⅳ** &nbsp; Mystery is not the absence of truth.
-
-<br/>
-
-**Ⅴ** &nbsp; Every system reveals its creator.
+<img src="./assets/doctrine-seals.svg" width="100%" alt="The Doctrine: Curiosity, Intention, Creation, Mystery, Reflection" />
 
 </div>
 
 <br/>
 
-<p align="center">─────── &nbsp; ✧ &nbsp; ───────</p>
-
-<br/>
-
 <div align="center">
 
-### Ⅳ · THE LIVING SIGNAL
-
-<br/>
+<h3>Ⅳ · THE LIVING SIGNAL</h3>
 
 <code>● SIGNAL RECEIVED</code>
 
@@ -120,22 +64,39 @@ and machine intelligence.
 
 <div align="center">
 
-### Ⅴ · THE PORTAL
+<h3>Ⅴ · CHRONICLE OF PRESENCE</h3>
 
-<br/>
-
-*The portal remains open.*
-
-If this signal reaches you,<br/>
-you may answer.
-
-<br/>
-
-[GITHUB](https://github.com/tine126) &nbsp;·&nbsp;
-[EMAIL](mailto:tine126@163.com) &nbsp;·&nbsp;
-[ORCID](https://orcid.org/0009-0006-0388-7219)
+<sub>A RECORD OF SIGNALS LEFT BEHIND</sub>
 
 <br/><br/>
+
+<img src="./github-metrics.svg" width="100%" alt="TINE contribution chronicle" />
+
+</div>
+
+<br/>
+
+<p align="center">─────── &nbsp; ✦ &nbsp; ───────</p>
+
+<br/>
+
+<div align="center">
+
+<h3>Ⅵ · THE PORTAL</h3>
+
+<em>The portal remains open.</em>
+
+<br/><br/>
+
+<a href="https://github.com/tine126"><img src="./assets/portal-github.svg" width="30%" alt="GitHub" /></a>&nbsp;
+<a href="mailto:tine126@163.com"><img src="./assets/portal-email.svg" width="30%" alt="Email" /></a>&nbsp;
+<a href="https://orcid.org/0009-0006-0388-7219"><img src="./assets/portal-orcid.svg" width="30%" alt="ORCID" /></a>
+
+<br/><br/><br/>
+
+<img src="./assets/tine-seal.svg" width="210" alt="TINE personal seal" />
+
+<br/>
 
 <sub>WITH GREAT INTELLIGENCE COMES GREAT RESPONSIBILITY</sub>
 
