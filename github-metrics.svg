@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="53" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="377" class="large">
     <defs>
         <style/>
     </defs>
@@ -14,8 +14,6 @@
 svg { background: #08090c !important; }
 h2, h3, .field { color: #e8e2d6 !important; }
 h2 { display: none !important; }
-.row { display: none !important; }
-svg.calendar { margin-left: 118px !important; margin-top: 10px !important; }
 .field svg { fill: #c6a15b !important; }
 path[fill="#ebedf0"] { fill: #151722 !important; }
 path[fill="#9be9a8"] { fill: #453b2c !important; }
