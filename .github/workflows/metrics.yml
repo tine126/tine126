@@ -24,6 +24,7 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          config_display: large
           config_timezone: Asia/Shanghai
           config_animations: yes
           extras_css: |
@@ -38,8 +39,6 @@ jobs:
             svg { background: #08090c !important; }
             h2, h3, .field { color: #e8e2d6 !important; }
             h2 { display: none !important; }
-            .row { display: none !important; }
-            svg.calendar { margin-left: 118px !important; margin-top: 10px !important; }
             .field svg { fill: #c6a15b !important; }
             path[fill="#ebedf0"] { fill: #151722 !important; }
             path[fill="#9be9a8"] { fill: #453b2c !important; }
